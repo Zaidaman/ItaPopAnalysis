@@ -1,4 +1,4 @@
-# Progetto per il corso Big Data e Data Analysis di Filippo Cappella
+# Progetto per il Laboratorio di Big Data, Data Mining e Data Analytics - Ce di Filippo Cappella
 _Progetto creato da Filippo Cappella_
 
 ### Fonti
